@@ -13,6 +13,6 @@
   "author": "sp",
   "license": "ISC",
   "devDependencies": {
-    "flow-bin": "^0.27.0"
+    "flow-bin": "^0.28.0"
   }
 }
